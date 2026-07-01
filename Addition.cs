@@ -2,7 +2,7 @@
 using System.Net;
 using System.Security.Cryptography.X509Certificates;
 
-class Question2{
+class Addition{
         public void Sum()
     {
         int a= 2;

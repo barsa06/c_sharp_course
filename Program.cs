@@ -4,15 +4,22 @@ using System.Security.Principal;
 class HelloWorld{
     static void Main(string[] args)
     {
-      // Console.WriteLine("Hello, Barsha!");
-       //Question2 question2 = new Question2();
-       //question2.Sum();
+       /*Console.WriteLine("Hello, Barsha!");
+       Addition addition = new Addition();
+       addition.Sum();
 
-       //Question3 question3 = new Question3();
-       //question3.Marks();
+       Result result = new Result();
+       result.Marks();
 
-       Question4 question4 = new Question4();
-       question4.AreaOfCircle();
+       Area area = new Area();
+       area.AreaOfCircle();
+
+       Swapping swapping = new Swapping();
+       swapping.Swap();
+       */
+       
+       SwapWithoutVar swaps = SwapWithoutVar();
+       swaps.Swap();
 
        
     }

@@ -2,7 +2,7 @@
 using System;
 using System.Data;
 using System.Net.NetworkInformation;
-class Question4
+class Area
 {
     public void AreaOfCircle()
     {

@@ -3,7 +3,7 @@ using System.Security.Cryptography.X509Certificates;
 
 //program to declare variables of name, roll number, address and email
 //print them
-class Question1{
+class Introduction{
         public void Identity()
         {
         string Name = "Barsha pun";
