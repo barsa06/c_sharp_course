@@ -16,12 +16,27 @@ class HelloWorld{
 
        Swapping swapping = new Swapping();
        swapping.Swap();
-       */
        
-       SwapWithoutVar swaps = SwapWithoutVar();
+       
+       SwapWithoutVar swaps = new SwapWithoutVar();
        swaps.Swap();
+    
 
+       PerimeterOfRectangle7 obj = new PerimeterOfRectangle7();
+       obj.Perimeter();
        
+       SimpleInterest8 simpleinterest = new SimpleInterest8();
+       simpleinterest.SI();
+       
+       Average9 obj = new Average9();
+       obj.Avg();
+       
+       Conversion10 obj= new Conversion10();
+       obj.Convert();
+       
+       Bill11 obj= new Bill11();
+       obj.TotalBill();
+       */
     }
 }
 
