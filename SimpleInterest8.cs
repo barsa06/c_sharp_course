@@ -8,7 +8,7 @@ class SimpleInterest8
         double rate =7.5;
         double time =2.5;
         double interest;
-        Console.WriteLine($"The principle, rate and simple interest is {principal},{rate} and {time}");
+        Console.WriteLine($"The principle, rate and time is {principal},{rate} and {time}");
         interest = (principal*rate*time)/100;
         Console.WriteLine($"Simple Interest is {interest}");
     

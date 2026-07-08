@@ -36,7 +36,16 @@ class HelloWorld{
        
        Bill11 obj= new Bill11();
        obj.TotalBill();
+       
+       Salary12 obj = new Salary12();
+       obj.Salary();
+       
+       FormattedDocument13 obj = new FormattedDocument13();
+       obj.Document();
        */
+       CompoundInterest14 obj = new CompoundInterest14();
+       obj.CInterest();
+
     }
 }
 
