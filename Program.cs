@@ -37,13 +37,13 @@ class HelloWorld{
        Bill11 obj= new Bill11();
        obj.TotalBill();
        
-       Salary12 obj = new Salary12();
+       Question12 obj = new Question12();
        obj.Salary();
        
-       FormattedDocument13 obj = new FormattedDocument13();
+       Question13 obj = new Question13();
        obj.Document();
        
-       CompoundInterest14 obj = new CompoundInterest14();
+       Question14 obj = new Question14();
        obj.CInterest();
        
        Question15 obj = new Question15();
@@ -51,10 +51,15 @@ class HelloWorld{
        
        Question16 obj = new Question16();
        obj.Dimensions();
-       */
+       
        Question17 obj = new Question17();
        obj.Dimensions();
-
+       
+       Question18 obj = new Question18();
+       obj.Distance();
+       */
+       Question19 obj = new Question19();
+       obj.Bmi();
     }
 }
 

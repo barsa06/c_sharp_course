@@ -1,6 +1,6 @@
 //13.Store a student's information (Name, Roll No, Faculty, GPA) and display it in a formatted report.
 using System;
-class FormattedDocument13
+class Question13
 {
     public void Document()
     {

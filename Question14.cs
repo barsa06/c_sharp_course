@@ -1,6 +1,6 @@
 //14.Calculate compound interest using variables.
 using System;
-class CompoundInterest14
+class Question14
 {
     public void CInterest()
     {
