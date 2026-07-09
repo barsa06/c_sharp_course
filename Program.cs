@@ -42,9 +42,18 @@ class HelloWorld{
        
        FormattedDocument13 obj = new FormattedDocument13();
        obj.Document();
-       */
+       
        CompoundInterest14 obj = new CompoundInterest14();
        obj.CInterest();
+       
+       Question15 obj = new Question15();
+       obj.Conversion();
+       
+       Question16 obj = new Question16();
+       obj.Dimensions();
+       */
+       Question17 obj = new Question17();
+       obj.Dimensions();
 
     }
 }
