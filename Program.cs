@@ -57,9 +57,21 @@ class HelloWorld{
        
        Question18 obj = new Question18();
        obj.Distance();
-       */
+       
        Question19 obj = new Question19();
        obj.Bmi();
+       
+       Question20 obj = new Question20();
+       obj.Payroll();
+       
+       Question21 obj = new Question21();
+       obj.info();
+       
+       Question22 obj = new Question22();
+       obj.Employee();
+       */
+       Question23 obj = new Question23();
+       obj.Employee();
     }
 }
 
